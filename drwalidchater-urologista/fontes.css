@@ -1,0 +1,40 @@
+/* Sentient */
+@font-face {
+  font-family: 'Sentient';
+  src: url('fontes/SIH66VPT4WS2HIF5PEJNDU4INNUF54LG.woff2') format('woff2');
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Sentient';
+  src: url('fontes/VLFJG7GKGM3UAH53OH7GOU7MPNJDZTJR.woff2') format('woff2');
+  font-weight: 400;
+  font-display: swap;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Sentient';
+  src: url('fontes/RNUZPHMIVMPXFHVACRGCAJ32E6WUEDVU.woff2') format('woff2');
+  font-weight: 500;
+  font-display: swap;
+  font-style: normal;
+}
+
+/* Satoshi */
+@font-face {
+  font-family: 'Satoshi';
+  src: url('fontes/KFIAZD4RUMEZIYV6FQ3T3GP5PDBDB6JY.woff2') format('woff2');
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Satoshi';
+  src: url('fontes/7AHDUZ4A7LFLVFUIFSARGIWCRQJHISQP.woff2') format('woff2');
+  font-weight: 500;
+  font-display: swap;
+  font-style: normal;
+}
+
+
